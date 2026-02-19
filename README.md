@@ -12,6 +12,7 @@ A simple command-line based Expense Tracker built using Python.
 
 ## Demo
 https://github.com/himanihassija/expense-tracker/blob/main/expense%20tracker%201.JPG
+
 https://github.com/himanihassija/expense-tracker/blob/main/expense%20tracker%202.png
 
 ## Technologies Used
