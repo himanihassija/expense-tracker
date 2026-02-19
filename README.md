@@ -9,6 +9,11 @@ A simple command-line based Expense Tracker built using Python.
 - Category-wise summary
 - Persistent storage using CSV
 
+
+## Demo
+https://github.com/himanihassija/expense-tracker/blob/main/expense%20tracker%201.JPG
+https://github.com/himanihassija/expense-tracker/blob/main/expense%20tracker%202.png
+
 ## Technologies Used
 - Python
 - CSV module
